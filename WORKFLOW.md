@@ -14,4 +14,6 @@
 
 ## Commitowanie
 
-1. 
+1. Należy dodać lub zmodyfikować istnięjące pliki
+2. Kliknąc przycisk commit _(zrzut nr.2)_
+3. 
