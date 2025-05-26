@@ -11,9 +11,10 @@
 2. Wybieramy odpowiednie repozytorium
 3. Klikamy na te trzy kreski _(zrzut nr.2)_
 4. Najrzdżamy kursorem na zakładkę **Branch** i wybieramy z listy **Create Branch** _(zrzut nr.3)_
+5. Po wykonaniu commitowania należy kliknąć orzycisk **Publish Branch**
 
 ## Commitowanie
 
 1. Należy dodać lub zmodyfikować istnięjące pliki
-2. Kliknąc przycisk commit _(zrzut nr.2)_
-3. 
+2. Kliknąc przycisk **commit** _(zrzut nr.2)_
+3. Następnie należy uzupełnić tytuł commitu _(zrzut nr.5)_
