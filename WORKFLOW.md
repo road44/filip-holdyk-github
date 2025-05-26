@@ -20,4 +20,5 @@
 3. Następnie należy uzupełnić wiadomość commitu _(zrzut nr.5)_
 
 ## Pushowanie
-1. Po wykonaniu commitu należy kliknąć przycisk Sync *(zrzut nr.6)*
+
+1. Po wykonaniu commitu należy kliknąć przycisk **Sync Changes** _(zrzut nr.6)_
