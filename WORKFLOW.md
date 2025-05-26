@@ -22,3 +22,16 @@
 ## Pushowanie
 
 1. Po wykonaniu commitu należy kliknąć przycisk **Sync Changes** _(zrzut nr.6)_
+
+## Otwieranie Pull Request (PR)
+
+1. Należy pobrać odpowiednią wtyczke w zależności od tego na jakiej platformie ma się repozytorium _(**GitHub** zrzut nr.7 gh)_ _(**BitBucket** zrzut nr.7 bb)_
+2. w zakładce **Source Control** _(zrzut nr.1)_ klikamy **Create Pull Request** _(zrzut nr.8)_
+3. Wybieramy brancha w którym chcemy utworzyć **PR** i uzupełniamy opis _(zrzut nr.9)_
+4. Klikamy przycisk **Create** _(zrzut nr.9)_
+5. Pojawi nam się okno ze wszystkimi commitami i pushami które wykonaliśmy _(zrzut nr.10)_
+
+## Mergowanie
+
+1. Jak już otworzyliśmy **PR** i chcemy go zmergować klikamy **Create Merge Commit** _(zrzut nr.11)_
+2. Zapyta się nas dwa razy czy jesteśmy pewni tego co robimy i tyle
