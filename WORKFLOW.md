@@ -46,3 +46,10 @@ Proces ten różni się nieco od siebie między tymi dwoma platformami
 2. Wybieramy z listy ten **PR** któremu chcemy zrobic review _(zrzut nr.13)_
 3. Wchodzimy w zakładkę **Files changed** _(zrzut nr.14)_
 4. Klikamy zielony przycisk **Review changes** i wpisujemy nasz komentarz _(zrzut nr.15)_
+
+
+### Review Kodu - BitBucket
+
+1. Wchodzimy z zakładkę **PR** a później w zakładkę **Files changes** _(zrzut nr.16)_
+2. Możemy dodać komentarz do konkretnej linijki poprzez kliknięcie plusika przy linijce _(zrzut nr.17)_ i kliknięciu **Start review**
+3. Możemy też dodać komentarz ogólny w sekcji **Overview** _(zrzut nr.18)_
