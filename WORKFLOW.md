@@ -35,3 +35,14 @@
 
 1. Jak już otworzyliśmy **PR** i chcemy go zmergować klikamy **Create Merge Commit** _(zrzut nr.11)_
 2. Zapyta się nas dwa razy czy jesteśmy pewni tego co robimy i tyle
+
+## Robienie Review kodu
+
+Proces ten różni się nieco od siebie między tymi dwoma platformami
+
+### Review kodu - GitHub
+
+1. Wchodzimy w zakładkę **Pull Requests** _(zrzut nr.12)_
+2. Wybieramy z listy ten **PR** któremu chcemy zrobic review _(zrzut nr.13)_
+3. Wchodzimy w zakładkę **Files changed** _(zrzut nr.14)_
+4. Klikamy zielony przycisk **Review changes** i wpisujemy nasz komentarz _(zrzut nr.15)_
