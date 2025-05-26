@@ -13,3 +13,5 @@ Poniżej znajduje się lista naszych ulubionych narzędzi, które regularnie wyk
 - **Postman** – niezastąpiony przy testowaniu i dokumentowaniu API.
 - **Git** – system kontroli wersji, który pozwala śledzić zmiany w kodzie i współpracować w zespole.
 - **Jest** – framework do testowania kodu JavaScript, szczególnie przydatny w projektach frontendowych.
+
+## musze coś dopisać bo chyba popsułem :<
