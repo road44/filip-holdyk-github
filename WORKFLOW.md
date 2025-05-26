@@ -52,3 +52,12 @@ Proces ten różni się nieco od siebie między tymi dwoma platformami
 1. Wchodzimy z zakładkę **PR** a później w zakładkę **Files changes** _(zrzut nr.16)_
 2. Możemy dodać komentarz do konkretnej linijki poprzez kliknięcie plusika przy linijce _(zrzut nr.17)_ i kliknięciu **Start review**
 3. Możemy też dodać komentarz ogólny w sekcji **Overview** _(zrzut nr.18)_
+
+## Konfigurowanie uprawnień i protection rules GitHub
+
+### Ustawianie _Rulesetes_
+
+1. Wchodzimy w zakłdakę **Settings** _(zrzut nr.12)_
+2. wchodzimy w **Rules -> Rulesets**
+3. Pojawi się zielony przycisk. Po jego kliknięciu możemy wybrać czy chcemy ustawić zestaw zabezpieczeń dla **tag'y** albo dla **branchu** _(zrzut nr.19)_
+4.
