@@ -64,3 +64,17 @@ Proces ten różni się nieco od siebie między tymi dwoma platformami
 5. Na końcu możemy wybrać jakie zabezpieczenia chcemy zastosować _(zrzut nr.21)_
 
 ## Konfigurowanie uprawnień na bitBucket
+
+### Ustawianie restrykcji branchu
+
+1. Wchodzimy w zakładkę **Repository setting** _(zrzut nr.16)_
+2. Wchodzimy w zakładkę **Branch restrictions** _(zrzut nr.22)_
+3. Klikamy **Add branch restriction** _(zrzut nr.23)_
+4. Ustawiamy nazwe restrykcji i dostosowywujemy ustawienia pod siebie _(zrzut nr.24)_
+5. Potem można przejść do zakładki **Merge settings** _(zrzut nr.25)_
+
+### Ustawianie uprawnień repozytorium
+
+1. Wchodzimy w zakładkę **Repository permissions** _(zrzut nr.26)_
+2. Mamy liste użytkowników którzy mają dostęp do danego repozytorium _(zrzut nr.27)_
+3. Każdemu użytkownikowi możemy ustawić jedną z trzech opcji: **Read, Write albo Admin** _(zrzut nr.28)_
