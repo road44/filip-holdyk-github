@@ -18,3 +18,4 @@
 1. Należy dodać lub zmodyfikować istnięjące pliki
 2. Kliknąc przycisk **commit** _(zrzut nr.2)_
 3. Następnie należy uzupełnić wiadomość commitu _(zrzut nr.5)_
+   d
